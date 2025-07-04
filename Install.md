@@ -1,8 +1,3 @@
-Here’s the INSTALL.md file content, formatted perfectly for GitHub:
-
-markdown
-Copy
-Edit
 # Installation Guide
 
 This guide will help you set up the required Python environment and libraries to run the Keylogger Project.
